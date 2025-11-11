@@ -1,6 +1,7 @@
 d:grub2
 d:python3-markupsafe
 d:grub2-efi
+d:python3-cython
 d:llvm
 f:0e57238cbe8a5afd4f55b73a12becee1:grub2/Pkgfile
 f:72367e81873281802ec4a5d68f211a90:grub2/.md5sum
@@ -16,6 +17,9 @@ f:c6fdcabd3b5e89c401bf713ce9aded13:grub2-efi/Pkgfile
 f:17550e405799f8e976a62fe4e7d4f3ed:grub2-efi/.md5sum
 f:43e08eb0137bd7ffafda6bf4c7a9b327:grub2-efi/extra_deps.lst
 f:59bd55a0da55a9457cf67019ff4bb69b:grub2-efi/.footprint
+f:f68834b1be71afe4db21208947da640b:python3-cython/Pkgfile
+f:8a3f2a21cd7502e76686d34c45535d81:python3-cython/.md5sum
+f:bdb684d590a772651da42c8e30ac9ca7:python3-cython/.footprint
 f:6077029c2ad789c6bc6257fe5ed8c9b2:llvm/Pkgfile
 f:751e6ddeab96da4cdbb858cbb0321045:llvm/.md5sum
 f:9dfb3fd0418124daeedc08690673e961:llvm/.footprint
