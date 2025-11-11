@@ -10,7 +10,7 @@ f:8945d02b41013f91b44652ba5c6caee9:grub2/grub2-tweaks.diff
 f:2d0a24dc5ce4b8641aa90e04e2a27898:grub2/README
 f:44d979728dc6e2b5c85ca9f376079327:python3-markupsafe/Pkgfile
 f:97817f2811727791c42cd781de5a4f0c:python3-markupsafe/.md5sum
-f:44fe4be112c5ac1bbd5ac51ecccc962f:python3-markupsafe/.footprint
+f:9835185dac6b09b93aaa4286aa5ee159:python3-markupsafe/.footprint
 f:c6fdcabd3b5e89c401bf713ce9aded13:grub2-efi/Pkgfile
 f:17550e405799f8e976a62fe4e7d4f3ed:grub2-efi/.md5sum
 f:43e08eb0137bd7ffafda6bf4c7a9b327:grub2-efi/extra_deps.lst
