@@ -1,0 +1,8 @@
+#
+# /etc/ports/opt-i686.httpup: Unofficial opt ports for CRUX i686
+#
+
+ROOT_DIR=/usr/ports/opt-i686
+URL=https://raw.githubusercontent.com/sepen/crux-ports-opt-i686/3.8/
+
+# End of file
