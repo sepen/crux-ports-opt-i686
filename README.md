@@ -6,5 +6,5 @@ To use these ports, download the `opt-i686.httpup` file to `/etc/ports`
 
 ```shell
 $ sudo wget -P /etc/ports https://raw.githubusercontent.com/sepen/crux-ports-opt-i686/3.8/opt-i686.httpup
-$ sudo ports -u core-i686
+$ sudo ports -u opt-i686
 ```
