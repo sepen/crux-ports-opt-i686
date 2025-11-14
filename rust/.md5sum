@@ -1,0 +1,10 @@
+ad038a2aa1de454e47d70d0cbac53e1b  0001-bootstrap-Change-libexec-dir.patch
+f8d11d8c7f2a63566ed2dffc01c2b952  0002-bootstrap-Change-bash-completion-dir.patch
+f9d38b634d10e1353a4c1200e11401f9  0003-bootstrap-Workaround-for-system-stage0.patch
+6ee6690b08086d4a6c949d23829d299b  0004-compiler-Change-LLVM-targets.patch
+a630a62780d7576d5d2e7c32a7abb468  0005-compiler-Use-aarch64-linux-gnu-gcc-to-link-aarch64-t.patch
+19368ee574587ede69279d0ea4993558  0006-compiler-Swap-primary-and-secondary-lib-dirs.patch
+20dbe34c5777de896d656fb7ef7b1452  cargo-1.90.0-i686-unknown-linux-gnu.tar.xz
+93f583a04a060d53700fadeab3f68242  rust-std-1.90.0-i686-unknown-linux-gnu.tar.xz
+407d6a8ee58f9bf47aad548b638445bf  rustc-1.90.0-i686-unknown-linux-gnu.tar.xz
+9440456ea38c3849988d8b01910717ea  rustc-1.91.1-src.tar.xz
