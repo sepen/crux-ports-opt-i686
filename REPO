@@ -1,8 +1,10 @@
 d:nodejs
 d:rust
+d:docker
 d:grub2
 d:python3-markupsafe
 d:grub2-efi
+d:go
 d:gobject-introspection
 d:python3-cython
 d:ffmpeg
@@ -25,6 +27,13 @@ f:6ee6690b08086d4a6c949d23829d299b:rust/0004-compiler-Change-LLVM-targets.patch
 f:a68528b0fd1e5420b6f851ae579e97a4:rust/.nostrip
 f:ad038a2aa1de454e47d70d0cbac53e1b:rust/0001-bootstrap-Change-libexec-dir.patch
 f:19368ee574587ede69279d0ea4993558:rust/0006-compiler-Swap-primary-and-secondary-lib-dirs.patch
+f:fc96322d8c8607a126d4e9bd30c7cf42:docker/pre-install
+f:944f94c1de64a14efbf2a6e089e19d6e:docker/Pkgfile
+f:b8b514bc6412006203f58420cf3ef791:docker/.md5sum
+f:73adf5e7c53e0c98d3ebd27312da1604:docker/.footprint
+f:319bd07e96f2183af1f64e4a1cd13081:docker/docker.conf
+f:d83f39cc5876fed6daecfbd28cfed4c1:docker/docker.rc
+f:a89245058732b01796d0ce1e2279fb00:docker/.nostrip
 f:0e57238cbe8a5afd4f55b73a12becee1:grub2/Pkgfile
 f:72367e81873281802ec4a5d68f211a90:grub2/.md5sum
 f:43e08eb0137bd7ffafda6bf4c7a9b327:grub2/extra_deps.lst
@@ -40,6 +49,9 @@ f:c6fdcabd3b5e89c401bf713ce9aded13:grub2-efi/Pkgfile
 f:17550e405799f8e976a62fe4e7d4f3ed:grub2-efi/.md5sum
 f:43e08eb0137bd7ffafda6bf4c7a9b327:grub2-efi/extra_deps.lst
 f:59bd55a0da55a9457cf67019ff4bb69b:grub2-efi/.footprint
+f:86d2e4d0fd40c4a0d13035b8a8addc98:go/Pkgfile
+f:a7689e0bee5d8eef93b6783f70c129c0:go/.md5sum
+f:eb0a0eb1d18946f9b4005496b1bbf015:go/.footprint
 f:ce1d3f72b19797db6821a5c00588905b:gobject-introspection/Pkgfile
 f:ef8f0b8deb7e984dc2f73bf994bf3e7b:gobject-introspection/.md5sum
 f:51cb0a1c0ee594cc64a4469fe5d75a38:gobject-introspection/.footprint
