@@ -4,6 +4,7 @@ d:docker
 d:grub2
 d:python3-markupsafe
 d:grub2-efi
+d:mpv
 d:go
 d:gobject-introspection
 d:python3-cython
@@ -49,6 +50,10 @@ f:c6fdcabd3b5e89c401bf713ce9aded13:grub2-efi/Pkgfile
 f:17550e405799f8e976a62fe4e7d4f3ed:grub2-efi/.md5sum
 f:43e08eb0137bd7ffafda6bf4c7a9b327:grub2-efi/extra_deps.lst
 f:59bd55a0da55a9457cf67019ff4bb69b:grub2-efi/.footprint
+f:d10e23cc0ce47c505e0eac7a910709e2:mpv/Pkgfile
+f:a7dffec517abbd462af38b8a02bfc8f7:mpv/.md5sum
+f:6faf3fbf8bf78c10ccfc18e277383b07:mpv/.footprint
+f:2afb336186c3466ee6604e8c9d55b635:mpv/README
 f:86d2e4d0fd40c4a0d13035b8a8addc98:go/Pkgfile
 f:a7689e0bee5d8eef93b6783f70c129c0:go/.md5sum
 f:eb0a0eb1d18946f9b4005496b1bbf015:go/.footprint
@@ -60,9 +65,9 @@ f:8a3f2a21cd7502e76686d34c45535d81:python3-cython/.md5sum
 f:bdb684d590a772651da42c8e30ac9ca7:python3-cython/.footprint
 f:023286e7b9148b593ca6f05b0ed19eb8:ffmpeg/d0facac679faf45d3356dff2e2cb382580d7a521.patch
 f:8d01f9dc6e07549a5006967efd3622be:ffmpeg/add-av_stream_get_first_dts-for-chromium.patch
-f:415e92aa9a75efe94dfffc72040dcdda:ffmpeg/Pkgfile
-f:28caf2a2d636a0f66307a3e254cff571:ffmpeg/.md5sum
-f:c8fa07e0e26e65e7391ae2e623575000:ffmpeg/.footprint
+f:f023729f0590e6ac13520a9578d538b6:ffmpeg/Pkgfile
+f:c2e91408be1ba2fb0ebfd95fcf087e0f:ffmpeg/.md5sum
+f:364fd748c8d27344a7bf5fb0cdf07307:ffmpeg/.footprint
 f:e8918185d4575fa99b897159b9ec91c9:ffmpeg/bcfbf2bac8f9eeeedc407b40596f5c7aaa0d5b47.patch
 f:c999e568e3dddf4fb9e7adb3aa18d3b1:ffmpeg/ffmpeg-7.1.1-svt-av1-3.patch
 f:89ad92073c2c3f61771204c4780a37bc:ffmpeg/fef22c87ada4517441701e6e61e062c9f4399c8e.patch
@@ -70,8 +75,8 @@ f:dae0c10c99399580c929fc100e79faef:ffmpeg/ffmpeg-x264-10bit.sh
 f:f15a8aa6fd4586e00dbcab4b5e40d3b8:python3-pyyaml/Pkgfile
 f:5fae1caca9e0745523ee81869dc11d04:python3-pyyaml/.md5sum
 f:d58a7808364202bb8df6c015e2ba54da:python3-pyyaml/.footprint
-f:74a470e2581969fbc5e067d15c01be79:compiler-rt/Pkgfile
-f:01b4a88cf0e2f581cbb51776b8e79db1:compiler-rt/.md5sum
+f:9957552f81a5f50a3c7d744dc76ff21e:compiler-rt/Pkgfile
+f:3414967740f72b522c17e849c32bcae3:compiler-rt/.md5sum
 f:30ce6222e372283b1153908ed05d46d6:compiler-rt/.footprint
 f:6077029c2ad789c6bc6257fe5ed8c9b2:llvm/Pkgfile
 f:751e6ddeab96da4cdbb858cbb0321045:llvm/.md5sum
