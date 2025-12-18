@@ -84,9 +84,9 @@ f:d58a7808364202bb8df6c015e2ba54da:python3-pyyaml/.footprint
 f:9957552f81a5f50a3c7d744dc76ff21e:compiler-rt/Pkgfile
 f:3414967740f72b522c17e849c32bcae3:compiler-rt/.md5sum
 f:30ce6222e372283b1153908ed05d46d6:compiler-rt/.footprint
-f:6077029c2ad789c6bc6257fe5ed8c9b2:llvm/Pkgfile
-f:751e6ddeab96da4cdbb858cbb0321045:llvm/.md5sum
-f:9dfb3fd0418124daeedc08690673e961:llvm/.footprint
+f:5388d8777869a5236019fab5fc13f655:llvm/Pkgfile
+f:02c0accd7b3646053535bd29474c396e:llvm/.md5sum
+f:ef21674c0ae6b514d6760ccd1567dd00:llvm/.footprint
 f:7fc6870fe0887ee43a2f0b720e4cdd4f:llvm/install-prefix.patch
 f:2c6bf25a88ae1b977652ecca17c46bea:llvm/README
 f:37f80be38b46f3a3e9e10f86b9375935:firefox-bin/Pkgfile
