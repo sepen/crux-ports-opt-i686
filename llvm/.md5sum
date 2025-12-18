@@ -1,4 +1,4 @@
-38b9a0272227bff7ca28b2546cfbcece  cmake-21.1.5.src.tar.xz
+fb75e927effbedba72de1f421154fd0c  cmake-21.1.8.src.tar.xz
 7fc6870fe0887ee43a2f0b720e4cdd4f  install-prefix.patch
-7412fb9595082d3eacca44a139400f0e  llvm-21.1.5.src.tar.xz
-bd57ee87ca901604f242d03aad44409e  third-party-21.1.5.src.tar.xz
+a45a3d91b0b178759b5ee86be81e1ca1  llvm-21.1.8.src.tar.xz
+4cad220587e039a2ff9465766c018621  third-party-21.1.8.src.tar.xz
