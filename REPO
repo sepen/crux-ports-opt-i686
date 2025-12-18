@@ -60,8 +60,8 @@ f:d10e23cc0ce47c505e0eac7a910709e2:mpv/Pkgfile
 f:a7dffec517abbd462af38b8a02bfc8f7:mpv/.md5sum
 f:6faf3fbf8bf78c10ccfc18e277383b07:mpv/.footprint
 f:2afb336186c3466ee6604e8c9d55b635:mpv/README
-f:86d2e4d0fd40c4a0d13035b8a8addc98:go/Pkgfile
-f:a7689e0bee5d8eef93b6783f70c129c0:go/.md5sum
+f:efc3d2a0269e6c11e6ac66745f845ed2:go/Pkgfile
+f:1d173d7f832700a0283f44c07a37681c:go/.md5sum
 f:eb0a0eb1d18946f9b4005496b1bbf015:go/.footprint
 f:ce1d3f72b19797db6821a5c00588905b:gobject-introspection/Pkgfile
 f:ef8f0b8deb7e984dc2f73bf994bf3e7b:gobject-introspection/.md5sum
