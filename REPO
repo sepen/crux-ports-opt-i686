@@ -14,8 +14,8 @@ d:python3-pyyaml
 d:compiler-rt
 d:llvm
 d:firefox-bin
-f:e76b6e50b1d471cf5711353f3c00a6ee:nodejs/Pkgfile
-f:d449c49ea0d7a30021d0b8c5b9faed5f:nodejs/.md5sum
+f:1ed9f9eac79feded086522c722f5b162:nodejs/Pkgfile
+f:0b9fc4d0638d1f6933efe24e5ffe8a50:nodejs/.md5sum
 f:44dfc11695ba269c37b9ea899eb9c8f1:nodejs/fix-v8-i686.patch
 f:6f35bea030879f18394b1de2c469f449:nodejs/unbundle-uv.patch
 f:e5fff55c15a6ad168b665fe4c6aae583:nodejs/.footprint
