@@ -53,10 +53,10 @@ f:f8d11d8c7f2a63566ed2dffc01c2b952:rust/0002-bootstrap-Change-bash-completion-di
 f:a68528b0fd1e5420b6f851ae579e97a4:rust/.nostrip
 f:ad038a2aa1de454e47d70d0cbac53e1b:rust/0001-bootstrap-Change-libexec-dir.patch
 f:19368ee574587ede69279d0ea4993558:rust/0006-compiler-Swap-primary-and-secondary-lib-dirs.patch
-f:e0291d7aef7808480cf2cee6ddf11c5d:rust/Pkgfile
+f:c636de77260de33122db332dd8f3ea70:rust/Pkgfile
 f:f9d38b634d10e1353a4c1200e11401f9:rust/0003-bootstrap-Workaround-for-system-stage0.patch
-f:0efa07e4cf7b4a8406ad61abe5b9af7e:rust/.md5sum
-f:d0a5504b12e2cbf3b81b9081b0047613:rust/.footprint
+f:79104f719232868d0f283fdd9c5b5d25:rust/.md5sum
+f:44a7e198ae9e364aeebd92bd8f8a2e29:rust/.footprint
 f:a630a62780d7576d5d2e7c32a7abb468:rust/0005-compiler-Use-aarch64-linux-gnu-gcc-to-link-aarch64-t.patch
 f:6ee6690b08086d4a6c949d23829d299b:rust/0004-compiler-Change-LLVM-targets.patch
 f:5897ffb44ff931de1476a329c413c3b2:thunderbird-bin/thunderbird.desktop
