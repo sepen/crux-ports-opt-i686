@@ -4,7 +4,7 @@ f9d38b634d10e1353a4c1200e11401f9  0003-bootstrap-Workaround-for-system-stage0.pa
 6ee6690b08086d4a6c949d23829d299b  0004-compiler-Change-LLVM-targets.patch
 a630a62780d7576d5d2e7c32a7abb468  0005-compiler-Use-aarch64-linux-gnu-gcc-to-link-aarch64-t.patch
 19368ee574587ede69279d0ea4993558  0006-compiler-Swap-primary-and-secondary-lib-dirs.patch
-20dbe34c5777de896d656fb7ef7b1452  cargo-1.90.0-i686-unknown-linux-gnu.tar.xz
-93f583a04a060d53700fadeab3f68242  rust-std-1.90.0-i686-unknown-linux-gnu.tar.xz
-407d6a8ee58f9bf47aad548b638445bf  rustc-1.90.0-i686-unknown-linux-gnu.tar.xz
-9440456ea38c3849988d8b01910717ea  rustc-1.91.1-src.tar.xz
+981cdda33f8cddad706a6a8fa38845d4  cargo-1.93.0-i686-unknown-linux-gnu.tar.xz
+d3a567016b03ce2c66a2551cbe9c6cf7  rust-std-1.93.0-i686-unknown-linux-gnu.tar.xz
+75606fb4ba8d74cc0a8ecf5d23830b1c  rustc-1.93.0-i686-unknown-linux-gnu.tar.xz
+cb3b3c8da3b876c6f690d4bcb1213fde  rustc-1.94.1-src.tar.xz

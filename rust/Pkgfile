@@ -1,13 +1,14 @@
 # Description: The Rust language with Cargo included.
 # URL: https://www.rust-lang.org/
 # Maintainer: CRUX System Team, core-ports at crux dot nu
+# Arch Maintainer: Jose Beneyto, sepen at crux-arm dot nu
 # Depends on: compiler-rt lld
 # Optional: clang libgit2 polly sccache
 
 name=rust
-version=1.91.1
-_date=2025-09-18
-_rustc=1.90.0
+version=1.94.1
+_date=2026-01-22
+_rustc=1.93.0
 _cargo=$_rustc
 release=1
 
@@ -75,7 +76,7 @@ build() {
 
 cat <<- EOF > $SRC/bootstrap.toml
 profile = "dist"
-change-id = 146435
+change-id = 148671
 
 [llvm]
 download-ci-llvm = false
@@ -94,7 +95,7 @@ remap-debuginfo = false
 codegen-tests = false
 backtrace-on-ice = true
 lld = false
-use-lld = "external"
+bootstrap-override-lld = "external"
 llvm-bitcode-linker = false
 rpath = false
 frame-pointers = true
@@ -177,12 +178,6 @@ EOF
 
     mkdir "$PKGMK_SOURCE_DIR/rust" || true
     export CARGO_HOME="$PKGMK_SOURCE_DIR/rust"
-
-    ## sccache currently leads to errors
-    #if [ -e '/usr/bin/sccache' ]; then
-    #    export RUSTC_WRAPPER='/usr/bin/sccache'
-    #    export SCCACHE_IDLE_TIMEOUT='1500'
-    #fi
 
     #error: field is never read: `id`
     #   --> src/bootstrap/lib.rs:280:5
