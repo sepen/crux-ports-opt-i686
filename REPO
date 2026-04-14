@@ -13,6 +13,7 @@ d:nodejs
 d:go
 d:python3-cython
 d:gobject-introspection
+d:rust-bin
 d:llvm
 f:44d979728dc6e2b5c85ca9f376079327:python3-markupsafe/Pkgfile
 f:97817f2811727791c42cd781de5a4f0c:python3-markupsafe/.md5sum
@@ -90,6 +91,9 @@ f:bdb684d590a772651da42c8e30ac9ca7:python3-cython/.footprint
 f:ce1d3f72b19797db6821a5c00588905b:gobject-introspection/Pkgfile
 f:ef8f0b8deb7e984dc2f73bf994bf3e7b:gobject-introspection/.md5sum
 f:51cb0a1c0ee594cc64a4469fe5d75a38:gobject-introspection/.footprint
+f:4cdd3b51522566cac02c1df2d589f3e8:rust-bin/Pkgfile
+f:39fcd0955378420c1609dfaf4ce78975:rust-bin/.md5sum
+f:d7b588b29825a4d2820a3c747c5ef9fc:rust-bin/.footprint
 f:2c6bf25a88ae1b977652ecca17c46bea:llvm/README
 f:d5d78f33de88fdc0cf49abf9ba5f8d44:llvm/Pkgfile
 f:2f048f0d3a9acbd80900ec02a97c7e0d:llvm/.md5sum
