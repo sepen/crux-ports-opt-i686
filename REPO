@@ -82,9 +82,9 @@ f:1ed9f9eac79feded086522c722f5b162:nodejs/Pkgfile
 f:0b9fc4d0638d1f6933efe24e5ffe8a50:nodejs/.md5sum
 f:6f35bea030879f18394b1de2c469f449:nodejs/unbundle-uv.patch
 f:e5fff55c15a6ad168b665fe4c6aae583:nodejs/.footprint
-f:efc3d2a0269e6c11e6ac66745f845ed2:go/Pkgfile
-f:1d173d7f832700a0283f44c07a37681c:go/.md5sum
-f:eb0a0eb1d18946f9b4005496b1bbf015:go/.footprint
+f:846640b0c2ec0e7ab9d6c9fde853dc5a:go/Pkgfile
+f:17c18728ed252b8fcc9ad1ad3382ade5:go/.md5sum
+f:317c0bbf1dfa195bb66640f6e2f91d29:go/.footprint
 f:f68834b1be71afe4db21208947da640b:python3-cython/Pkgfile
 f:8a3f2a21cd7502e76686d34c45535d81:python3-cython/.md5sum
 f:bdb684d590a772651da42c8e30ac9ca7:python3-cython/.footprint
